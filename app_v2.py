@@ -4,8 +4,6 @@ import streamlit as st
 
 from Step_3_V4 import initialize_messages, get_tastebud_response
 
-# load the two images into the code
-company_logo = "Images/Company Logo.png"
 scout_icon = "Images/TasteBud Logo.png"
 
 # spacing top
