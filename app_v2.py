@@ -18,7 +18,7 @@ st.markdown("""
     <div style='text-align: center;'>
         <h2 style='margin-bottom: 20px;'>TasteBud</h2>
         <p style='margin-top: 10px; font-size: 25px; color: #666;'>
-            Your AI-powered recipe generator-.
+            Your AI-powered recipe generator.
         </p>
     </div>
 """, unsafe_allow_html=True)
