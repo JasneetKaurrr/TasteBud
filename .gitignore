@@ -5,7 +5,7 @@ __pycache__/
 # Virtual environment
 .venv/
 Data/
-Previous Steps/
+Previous_Steps/
 build_faiss_index.py
 # Streamlit
 .streamlit/secrets.toml
