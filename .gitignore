@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.env
+# Virtual environment
+.venv/
+Data/
+app.py
+Step_1.py
+Step_2.py
+Step_3_V2.py
+Step_3_V3.py
+Tools.py
+Tools_V2.py
+Tools_V3.py
+Tools_V4.py
+Tools_V5.py
+build_faiss_index.py
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+# PyCharm
+.idea/
