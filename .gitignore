@@ -8,6 +8,5 @@ Data/
 Previous_Steps/
 # Streamlit
 .streamlit/secrets.toml
-.streamlit/
 # PyCharm
 .idea/
